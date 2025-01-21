@@ -1,30 +1,19 @@
-Hi there! 👋
+Olá! 👋
+Meu nome é Jonathan Luis, desenvolvedor de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e procurando ativamente por minha primeira oportunidade na área de tecnologia.
 
-My name is Jonathan Luis, and I’m passionate about technology and software development. Currently, I’m pursuing a degree in Analysis and Systems Development (ADS) and actively looking for my first opportunity in the tech field.
+Sobre:
+🌱 Atualmente estou aprendendo:
+PHP (estrutura Laravel) JavaScript MySQL
+👀 Estou interessado em:
+Desenvolvimento back-end
+Construindo plataformas de comércio eletrônico
+Melhorando minhas habilidades de lógica e programação
 
-About Me
+💞️ Estou procurando colaborar em:
 
-🌱 I’m currently learning:
+Projetos de código aberto em PHP e JavaScript
+Projetos que desafiam e desenvolvem minhas habilidades
 
-PHP (Laravel framework)
-JavaScript
-MySQL
-
-👀 I’m interested in:
-
-Back-end development
-
-Building e-commerce platforms
-
-Improving my logic and programming skills
-
-💞️ I’m looking to collaborate on:
-
-Open source projects in PHP, and JavaScript
-
-Projects that challenge and grow my skills
-
-
-📫 Email: jdk99.rodrigues@gmail.com
-
+Entre em contato comigo:
+📫 E-mail: jdk99.rodrigues@gmail.com
 💼 LinkedIn: Jonathan Luis
