@@ -24,11 +24,6 @@ Open source projects in PHP, and JavaScript
 
 Projects that challenge and grow my skills
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love exploring new technologies and balancing my time between coding and playing eFootball!
-
-How to Reach Me
 
 📫 Email: jdk99.rodrigues@gmail.com
 
