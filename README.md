@@ -7,12 +7,8 @@ About Me
 🌱 I’m currently learning:
 
 PHP (Laravel framework)
-
 JavaScript
-
 MySQL
-
-Docker
 
 👀 I’m interested in:
 
@@ -24,7 +20,7 @@ Improving my logic and programming skills
 
 💞️ I’m looking to collaborate on:
 
-Open source projects in PHP, Laravel, and JavaScript
+Open source projects in PHP, and JavaScript
 
 Projects that challenge and grow my skills
 
@@ -34,6 +30,6 @@ Projects that challenge and grow my skills
 
 How to Reach Me
 
-📫 Email: jonathan.luis@example.com
+📫 Email: jdk99.rodrigues@gmail.com
 
 💼 LinkedIn: Jonathan Luis
